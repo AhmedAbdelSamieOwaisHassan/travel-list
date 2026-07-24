@@ -1,4 +1,15 @@
-# React + Vite
+
+<h1>The project's concept:</h1>
+
+A simple app that helps you create a travel checklist before you travel:
+
+▪ Add each item you're taking (name + quantity). 
+▪ Check each item as packed. Delete any item. 
+▪ Sort the list (original order / alphabetically / by packed items). 
+
+▪A statistic shows how many items you packed out of the total, and you receive a motivational message if you complete 100% of the checklist.
+
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/0e055ffd-4fba-4d6d-adc6-efb853b279a5" /># React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
