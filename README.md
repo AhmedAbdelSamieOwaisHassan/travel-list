@@ -3,8 +3,10 @@
 
 A simple app that helps you create a travel checklist before you travel:
 
-▪ Add each item you're taking (name + quantity). 
+▪ Add each item you're taking (name + quantity).
+
 ▪ Check each item as packed. Delete any item. 
+
 ▪ Sort the list (original order / alphabetically / by packed items). 
 
 ▪A statistic shows how many items you packed out of the total, and you receive a motivational message if you complete 100% of the checklist.
